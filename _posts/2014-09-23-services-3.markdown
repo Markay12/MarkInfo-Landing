@@ -1,8 +1,11 @@
 ---
 layout: default
-img: phones.png
-category: Services
-title: Google Web Fonts and<br>Font Awesome Icons
+img: cloud.
+category: Documents
+title: Cloud Computing
 description: |
 ---
-This template features the 'Lato' font, part of the [Google Web Font library](http://www.google.com/fonts), as well as [icons from Font Awesome](http://fontawesome.io).
+  Different cloud computing service models including IaaS, PaaS and SaaS  
+  Learn how to work with virtual machines and cloud machines and their benefits for you personally or your business.
+
+  [Learn Cloud Computing](https://www.cloud.markinfo.dev/)
