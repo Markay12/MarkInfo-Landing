@@ -1,6 +1,6 @@
 ---
 layout: default
-img: cloud.
+img: cloud.jpg
 category: Documents
 title: Cloud Computing
 description: |
