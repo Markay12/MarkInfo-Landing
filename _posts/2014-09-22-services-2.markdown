@@ -1,10 +1,10 @@
 ---
 layout: default
-img: dog.png
-category: Services
-title: 3D Device Mockups<br>by PSDCovers
+img: datastructure.jpg
+category: Documents
+title: Data Structures
 description: |
 ---
-  Turn your 2D designs into high quality, 3D
-  product shots in seconds using free Photoshop actions by [PSDCovers](http://www.psdcovers.com/)! Visit
-  their website to download some of their awesome, free photoshop actions!
+  Basic data structures:  
+  Includes Binary Search Trees, Binary Trees and Linked Lists    
+  Advantages and Disadvantages to certain types of structures and where to use them
