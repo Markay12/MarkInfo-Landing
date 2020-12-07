@@ -1,6 +1,6 @@
 ---
 layout: default
-img: mark.jpg
+img: mark.png
 category: Documents
 title: About Me
 description: |
