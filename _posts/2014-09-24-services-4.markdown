@@ -1,6 +1,6 @@
 ---
 layout: default
-img: python.jpg
+img: python.png
 category: Documents
 title: Python
 description: |
